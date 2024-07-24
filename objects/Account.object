@@ -271,6 +271,17 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
+        <fullName>Landmark__c</fullName>
+        <externalId>false</externalId>
+        <label>Landmark</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Name</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
